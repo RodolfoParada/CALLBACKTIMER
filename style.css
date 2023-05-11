@@ -1,0 +1,20 @@
+.rojo{
+    display: flex;
+    margin-left: 150px;
+    margin-top: -30px;
+}
+.verde{
+    display: flex;
+    margin-left: 30px;
+
+}
+.segundos{
+    display: flex;
+    margin-top: 110px;
+    margin-left: -90px;
+}
+
+.cero{
+    display: flex;
+    font-size: 100px;
+}
